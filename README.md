@@ -1,18 +1,18 @@
-# SmartMeet AI 🧠🎥
+# SmartMeet AI
 
 **SmartMeet AI** is a macOS productivity application that automatically summarizes your local Zoom meeting recordings using OpenAI's Whisper and GPT models.
 
 ---
 
-## ✨ Features
+## Features
 
 - **Privacy-First**: User must manually grant access to the local `Zoom` folder for the app to function.
-- 🎙**Automatic Detection**: When a Zoom meeting ends and the `.m4a` recording is saved to disk, SmartZoom starts processing automatically.
+- **Automatic Detection**: When a Zoom meeting ends and the `.m4a` recording is saved to disk, SmartZoom starts processing automatically.
 - **AI-Powered Summary**: The app transcribes the audio using Whisper and generates a human-like summary using GPT-4.
 - **Highlight System**:
   - **Red dot** indicates a draft summary — user can still edit or regenerate.
   - **Saved summary** indicates finalized output stored in Database.
-- 🖼**Minimal Interface**: Designed for focus — the main screen displays a simple list of recent meetings with timestamps, transcript, and summary side-by-side.
+- **Minimal Interface**: Designed for focus — the main screen displays a simple list of recent meetings with timestamps, transcript, and summary side-by-side.
 
 ---
 
@@ -42,7 +42,7 @@ Apple’s privacy rules prevent direct background access to the user's files. Th
 
 ## Installation
 
-This project is not public yet due to App Store review requirements. However, the source code and demo are available upon request for employers, collaborators, or reviewers.
+This project is public on App Store (MACOS).
 
 ---
 
@@ -59,11 +59,5 @@ Contact me directly if you'd like to view the demo.
 
 ## About Me
 
-I built SmartZoom to save time and mental load after long meetings. It's a native macOS experience with AI under the hood — designed with privacy, clarity, and speed in mind.
+I built SmartMeet AI to save time and mental load after long meetings. It's a native macOS experience with AI under the hood — designed with privacy, clarity, and speed in mind.
 
----
-
-## 📫 Contact
-
-For demo access, collaboration, or hiring inquiries:  
-**ahmet.cavusoglu.dev@gmail.com**
