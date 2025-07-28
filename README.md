@@ -1,22 +1,22 @@
-# SmartZoom 🧠🎥
+# SmartMeet AI 🧠🎥
 
-**SmartZoom** is a macOS productivity application that automatically summarizes your local Zoom meeting recordings using OpenAI's Whisper and GPT models.
+**SmartMeet AI** is a macOS productivity application that automatically summarizes your local Zoom meeting recordings using OpenAI's Whisper and GPT models.
 
 ---
 
 ## ✨ Features
 
-- 🔐 **Privacy-First**: User must manually grant access to the local `Zoom` folder for the app to function.
-- 🎙️ **Automatic Detection**: When a Zoom meeting ends and the `.m4a` recording is saved to disk, SmartZoom starts processing automatically.
-- 📝 **AI-Powered Summary**: The app transcribes the audio using Whisper and generates a human-like summary using GPT-4.
-- 📌 **Highlight System**:
-  - 🔴 **Red dot** indicates a draft summary — user can still edit or regenerate.
-  - ✅ **Saved summary** indicates finalized output stored in Firestore.
-- 🖼️ **Minimal Interface**: Designed for focus — the main screen displays a simple list of recent meetings with timestamps, transcript, and summary side-by-side.
+- **Privacy-First**: User must manually grant access to the local `Zoom` folder for the app to function.
+- 🎙**Automatic Detection**: When a Zoom meeting ends and the `.m4a` recording is saved to disk, SmartZoom starts processing automatically.
+- **AI-Powered Summary**: The app transcribes the audio using Whisper and generates a human-like summary using GPT-4.
+- **Highlight System**:
+  - **Red dot** indicates a draft summary — user can still edit or regenerate.
+  - **Saved summary** indicates finalized output stored in Database.
+- 🖼**Minimal Interface**: Designed for focus — the main screen displays a simple list of recent meetings with timestamps, transcript, and summary side-by-side.
 
 ---
 
-## 🛡️ Privacy and Permissions
+## Privacy and Permissions
 
 Apple’s privacy rules prevent direct background access to the user's files. Therefore, the app:
 
@@ -30,7 +30,7 @@ Apple’s privacy rules prevent direct background access to the user's files. Th
 
 ---
 
-## 🔧 Built With
+## Built With
 
 - **Flutter** (macOS)
 - **OpenAI Whisper** – for transcription
@@ -40,13 +40,13 @@ Apple’s privacy rules prevent direct background access to the user's files. Th
 
 ---
 
-## 🚀 Installation
+## Installation
 
 This project is not public yet due to App Store review requirements. However, the source code and demo are available upon request for employers, collaborators, or reviewers.
 
 ---
 
-## 📷 Demo Video
+## Demo Video
 
 A short video is available showing the core UX flow, including:
 - Folder permission prompt
@@ -57,7 +57,7 @@ Contact me directly if you'd like to view the demo.
 
 ---
 
-## 🙋 About Me
+## About Me
 
 I built SmartZoom to save time and mental load after long meetings. It's a native macOS experience with AI under the hood — designed with privacy, clarity, and speed in mind.
 
