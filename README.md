@@ -5,6 +5,7 @@
 ---
 
 ## Features
+![SmartZoom App Icon](appicon_1.png)
 
 - **Privacy-First**: User must manually grant access to the local `Zoom` folder for the app to function.
 - **Automatic Detection**: When a Zoom meeting ends and the `.m4a` recording is saved to disk, SmartZoom starts processing automatically.
