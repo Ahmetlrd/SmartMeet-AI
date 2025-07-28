@@ -1,12 +1,13 @@
-
-![SmartZoom App Icon](appicon_1.png)
-Listen once. Focus on the meeting. Understand always.
-
 # SmartMeet AI
 
 **SmartMeet AI** is a macOS productivity application that automatically summarizes your local Zoom meeting recordings using OpenAI's Whisper and GPT models.
 
 ---
+
+![SmartZoom App Icon](appicon_1.png)
+                                    Listen once. Focus on the meeting. Understand always.
+
+
 
 ## Features
 
