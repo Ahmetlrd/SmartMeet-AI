@@ -4,8 +4,16 @@
 
 ---
 
-![SmartZoom App Icon](appicon_1.png)
-                                    Listen once. Focus on the meeting. Understand always.
+<p align="center">
+  <img src="appicon_1.png" alt="SmartMeet AI" width="120"/>
+</p>
+
+<h2 align="center">AI-Powered Zoom Meeting Summarizer</h2>
+
+<p align="center">
+  Listen once. Focus on the meeting. Understand always.
+</p>
+
 
 
 
@@ -51,14 +59,9 @@ This project is public on App Store (MACOS).
 
 ---
 
-## Demo Video
+## Screenshots
 
-A short video is available showing the core UX flow, including:
-- Folder permission prompt
-- Summary indicator with red/green status
-- System notifications during summary generation
 
-Contact me directly if you'd like to view the demo.
 
 ---
 
