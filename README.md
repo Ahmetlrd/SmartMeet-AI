@@ -62,6 +62,20 @@ This project is public on App Store (MACOS).
 
 ## Screenshots
 
+<p align="center">
+  <img src="SmartMeet AI_0.png" alt="Screenshot 0" width="300"/>
+  <img src="SmartMeet AI_1.png" alt="Screenshot 1" width="300"/>
+</p>
+
+<p align="center">
+  <img src="SmartMeet AI_2.png" alt="Screenshot 2" width="300"/>
+  <img src="SmartMeet AI_3.png" alt="Screenshot 3" width="300"/>
+</p>
+
+<p align="center">
+  <img src="SmartMeet AI_4.png" alt="Screenshot 4" width="300"/>
+  <img src="SmartMeet AI_5.png" alt="Screenshot 5" width="300"/>
+</p>
 
 
 ---
