@@ -4,8 +4,9 @@
 
 ---
 
- align="center">
+ <p align="center">
   <img src="appicon_1.png" alt="SmartMeet AI" width="120"/>
+</p>
 
 
 <h2 align="center">Listen once. Focus on the meeting. Understand always.</h2>
